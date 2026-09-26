@@ -1,0 +1,119 @@
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales",+tdp
+https://ztnr.rtve.es/ztnr/6712431.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales",+tdp
+https://ztnr.rtve.es/ztnr/6712410.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales",+tdp
+https://ztnr.rtve.es/ztnr/6712426.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales",+tdp
+https://ztnr.rtve.es/ztnr/6712411.m3u8
+
+#EXTINF:-1 tvg-id="RTVE_Conciertos_R3.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",Conciertos Radio 3 (RTVE)
+https://ztnr.rtve.es/ztnr/6924117.m3u8
+
+#EXTINF:-1 tvg-id="RTVE_Conciertos_R3.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",Conciertos Radio 3 (RTVE)
+https://rtvelivestream.rtve.es/eventual/gofast/playm11_main.m3u8
+
+#EXTINF:-1 tvg-id="RTVE_Cuentame.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",Cuéntame (RTVE)
+https://ztnr.rtve.es/ztnr/6909843.m3u8
+
+#EXTINF:-1 tvg-id="RTVE_Cuentame.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",Cuéntame (RTVE)
+https://rtvelivestream.rtve.es/eventual/gofast/playm7_main.m3u8
+
+#EXTINF:-1 tvg-id="RTVE_Promesa.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",La Promesa (RTVE)
+https://ztnr.rtve.es/ztnr/2472039.m3u8
+
+#EXTINF:-1 tvg-id="RTVE_Promesa.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",La Promesa (RTVE)
+https://rtvelivestream.rtve.es/eventual/gofast/playm1_main.m3u8
+
+#EXTINF:-1 tvg-id="RTVE_Epoca.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",La Revuelta (RTVE)
+https://ztnr.rtve.es/ztnr/16464388.m3u8
+
+#EXTINF:-1 tvg-id="RTVE_Epoca.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",La Revuelta (RTVE)
+https://rtvelivestream.rtve.es/eventual/gofast/playm5_main.m3u8
+
+#EXTINF:-1 tvg-id="RTVE_SomosCine.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",Somos Cine (RTVE)
+https://ztnr.rtve.es/ztnr/6909845.m3u8
+
+#EXTINF:-1 tvg-id="RTVE_SomosCine.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",Somos Cine (RTVE)
+https://rtvelivestream.rtve.es/eventual/gofast/playm6_main.m3u8
+
+#EXTINF:-1 tvg-id="RTVE_Cocina.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",Cocina (RTVE)
+https://ztnr.rtve.es/ztnr/16656232.m3u8
+
+#EXTINF:-1 tvg-id="RTVE_Cocina.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",Cocina (RTVE)
+https://rtvelivestream.rtve.es/eventual/gofast/playm20_main.m3u8
+
+#EXTINF:-1 tvg-id="RTVE_PopUp.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",Al cielo con ella (RTVE)
+https://ztnr.rtve.es/ztnr/16862827.m3u8
+
+#EXTINF:-1 tvg-id="RTVE_PopUp.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",Al cielo con ella (RTVE)
+https://rtvelivestream.rtve.es/eventual/gofast/playm26_main.m3u8
+
+#EXTINF:-1 tvg-id="RTVE_En_Play.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",En Play (RTVE)
+https://ztnr.rtve.es/ztnr/17017351.m3u8
+
+#EXTINF:-1 tvg-id="RTVE_En_Play.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",En Play (RTVE)
+https://rtvelivestream.rtve.es/eventual/gofast/playm27_main.m3u8
+
+#EXTINF:-1 tvg-id="RTVE_PopUp2.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",San Sebastián Fes (RTVE)
+https://ztnr.rtve.es/ztnr/16720260.m3u8
+
+#EXTINF:-1 tvg-id="RTVE_PopUp2.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",San Sebastián Fes (RTVE)
+https://rtvelivestream.rtve.es/eventual/gofast/playm21_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="Eventuales",Canal Parlamento
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="Eventuales",Congreso de los Diputados
+https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="Eventuales",Congreso de los Diputados
+https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="Eventuales",Congreso de los Diputados
+https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="Eventuales",Congreso de los Diputados
+https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="Eventuales",Congreso de los Diputados
+https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2015722457508810752/NpsKmNCK_200x200.jpg" group-title="Eventuales",Senado
+https://senadolive.akamaized.net/hls/live/2006594/punto5/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2015722457508810752/NpsKmNCK_200x200.jpg" group-title="Eventuales",Senado
+https://senadolive.akamaized.net/hls/live/2006595/punto6/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2015722457508810752/NpsKmNCK_200x200.jpg" group-title="Eventuales",Senado
+https://senadolive.akamaized.net/hls/live/2006589/punto7/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2015722457508810752/NpsKmNCK_200x200.jpg" group-title="Eventuales",Senado
+https://senadolive.akamaized.net/hls/live/2006590/punto8/master.m3u8
+
+#EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Andalucía",Canal Sur Andalucía
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/74cdbd1b401a7598ab8f3e9b5652c9909daa60dd4f6f96f28396a3f1cfd926f2.m3u8
+
+#EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Andalucía",Canal Sur 2 Accesible
+https://rtva-channel22.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalSurNoticias/picture?width=200&height=200" group-title="Andalucía",Canal Sur Más Noticias
+https://rtva-channel42.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7TV_Andalucía.TV" tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="Andalucía",7TV Andalucía
+https://especial7tv.gestec-video.com/hls/regional.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="Andalucía",7TV Almería
+https://streaming004.gestec-video.com/hls/7TVALMERIA.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="Andalucía",7TV Cádiz
+https://streaming004.gestec-video.com/hls/7TVCADIZ.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="Andalucía",7TV Córdoba
+https://streaming004.gestec-video.com/hls/7TVCORDOBA.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200" group-title="Andalucía",7TV Granada
+https://streaming004.gestec-video.com/hls/7TVGRANADA.m3u8
