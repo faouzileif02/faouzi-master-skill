@@ -1,0 +1,86 @@
+#EXTM3U
+#PLAYLIST:IPTV Free Countries - Tested OK
+
+#EXTINF:-1 tvg-id="ElWatania1.tn" tvg-country="TN" group-title="Tunisie",El Watania 1
+https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ElWatania2.tn" tvg-country="TN" group-title="Tunisie",El Watania 2
+https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="La1.TV" tvg-country="ES" group-title="Espagne",La 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="La2.TV" tvg-country="ES" group-title="Espagne",La 2
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-country="ES" group-title="Espagne",24h
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="324.TV" tvg-country="ES" group-title="Espagne",3CatInfo
+https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="TDP.TV" tvg-country="ES" group-title="Espagne",Teledeporte
+https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
+
+#EXTINF:-1 tvg-id="RMTV.TV" tvg-country="ES" group-title="Espagne",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-id="RMTV.TV" tvg-country="ES" group-title="Espagne",Real Madrid TV EN
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
+#EXTINF:-1 tvg-id="Clan.TV" tvg-country="ES" group-title="Espagne",Clan
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
+
+#EXTINF:-1 tvg-country="ES" group-title="Espagne",Canal Parlamento
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+
+#EXTINF:-1 tvg-id="DW.TV" tvg-country="DE" group-title="Allemagne",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-id="DW.TV" tvg-country="DE" group-title="Allemagne",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-country="DE" group-title="Allemagne",Tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+
+#EXTINF:-1 tvg-country="DE" group-title="Allemagne",ARD Das Erste
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+
+#EXTINF:-1 tvg-country="GB" group-title="Royaume-Uni",GB News
+https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-country="US" group-title="USA",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-country="US" group-title="USA",Court TV
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+
+#EXTINF:-1 tvg-country="US" group-title="USA",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-country="CN" group-title="Asie",CGTN News
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
+
+#EXTINF:-1 tvg-country="QA" group-title="Asie",Al Jazeera English
+https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+
+#EXTINF:-1 tvg-country="QA" group-title="Asie",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 tvg-country="JP" group-title="Asie",NHK World
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+#EXTINF:-1 tvg-country="KR" group-title="Asie",Arirang TV
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-country="AE" group-title="Asie",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-country="SG" group-title="Asie",Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-country="VE" group-title="Amérique Latine",TeleSUR
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-country="MX" group-title="Amérique Latine",Canal Once
+https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
