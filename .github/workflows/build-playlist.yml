@@ -1,0 +1,35 @@
+name: Build full playlist
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "parts/**"
+      - ".github/workflows/build-playlist.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Merge checked playlist parts
+        run: |
+          cat parts/part_*.m3u > all.m3u
+          echo "Streams: $(grep -Ec '^https?://' all.m3u)"
+
+      - name: Commit full playlist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add all.m3u
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "Build full checked playlist"
+          git push
